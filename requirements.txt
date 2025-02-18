@@ -1,0 +1,19 @@
+# Data manipulation and analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning and Deep Learning
+scikit-learn
+tensorflow-macos>=2.8.0
+tensorflow-metal>=0.6.0
+
+# For Jupyter notebooks
+jupyterlab
+
+# Utility libraries
+tqdm
+optuna
